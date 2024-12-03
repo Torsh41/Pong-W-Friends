@@ -25,6 +25,7 @@ class Pong:
     def __init__(self):
         # racket_left = Racket(...)
         # racket_right = Racket(...)
+        # ball = Ball(...)
         score_left: int = 0
         score_right: int = 0
         dt = 16.6666 # ms # 60 fps
