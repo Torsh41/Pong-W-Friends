@@ -1,5 +1,6 @@
 ### Pong With Friends
 
+This was a template project to help my friend learn some programming basics...
 
 ### Задачи:
 
